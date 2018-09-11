@@ -5,6 +5,7 @@
     }
   ],
   "settings": {
-    "eslint.enable": false
+    "eslint.enable": false,
+    "prettier.singleQuote": true
   }
 }

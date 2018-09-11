@@ -60,7 +60,7 @@
     ],
     "prefer-const": true,
     // Modified
-    "quotemark": [true, "double"],
+    "quotemark": [true, "single"],
     "no-unused-variable": [
       true,
       {
